@@ -1,1 +1,1 @@
-# coding-project-template
+Nursery Shopping Web Application with Shopping Cart feature
